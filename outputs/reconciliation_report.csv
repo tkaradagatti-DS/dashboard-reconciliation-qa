@@ -1,0 +1,121 @@
+month,region,source_revenue,source_orders,dashboard_revenue,dashboard_orders,revenue_diff,revenue_diff_pct,orders_diff,revenue_pass,orders_pass,overall_pass
+2024-01-01,East Midlands,18500.17,77,18500.17,77,0.0,0.0,0,True,True,True
+2024-01-01,London,28184.32,115,28184.32,115,0.0,0.0,0,True,True,True
+2024-01-01,North West,22111.07,95,22111.07,95,0.0,0.0,0,True,True,True
+2024-01-01,West Midlands,18437.58,80,18437.58,80,0.0,0.0,0,True,True,True
+2024-01-01,Yorkshire,19395.45,89,19395.45,89,0.0,0.0,0,True,True,True
+2024-02-01,East Midlands,18889.66,79,18889.66,79,0.0,0.0,0,True,True,True
+2024-02-01,London,26379.99,126,26379.99,126,0.0,0.0,0,True,True,True
+2024-02-01,North West,18015.08,96,18015.08,96,0.0,0.0,0,True,True,True
+2024-02-01,West Midlands,16113.75,67,16113.75,67,0.0,0.0,0,True,True,True
+2024-02-01,Yorkshire,18457.9,75,18457.9,75,0.0,0.0,0,True,True,True
+2024-03-01,East Midlands,14875.53,73,14875.53,73,0.0,0.0,0,True,True,True
+2024-03-01,London,25539.06,119,25539.06,119,0.0,0.0,0,True,True,True
+2024-03-01,North West,17748.65,82,17748.65,82,0.0,0.0,0,True,True,True
+2024-03-01,West Midlands,19041.14,77,18660.32,77,-380.82,-2.0,0,False,True,False
+2024-03-01,Yorkshire,20342.1,82,20342.1,82,0.0,0.0,0,True,True,True
+2024-04-01,East Midlands,19560.09,93,19846.72,93,286.63,1.47,0,False,True,False
+2024-04-01,London,28662.81,127,28376.18,127,-286.63,-1.0,0,False,True,False
+2024-04-01,North West,21482.3,88,21482.3,88,0.0,0.0,0,True,True,True
+2024-04-01,West Midlands,15590.36,65,15278.55,65,-311.81,-2.0,0,False,True,False
+2024-04-01,Yorkshire,16236.52,72,16236.52,72,0.0,0.0,0,True,True,True
+2024-05-01,East Midlands,20899.11,96,20899.11,96,0.0,0.0,0,True,True,True
+2024-05-01,London,30711.93,132,30711.93,132,0.0,0.0,0,True,True,True
+2024-05-01,North West,19887.03,84,19887.03,84,0.0,0.0,0,True,True,True
+2024-05-01,West Midlands,17447.36,72,17098.41,72,-348.95,-2.0,0,False,True,False
+2024-05-01,Yorkshire,21109.27,85,21109.27,85,0.0,0.0,0,True,True,True
+2024-06-01,East Midlands,16929.98,64,17185.07,64,255.09,1.51,0,False,True,False
+2024-06-01,London,25509.1,114,25254.01,114,-255.09,-1.0,0,False,True,False
+2024-06-01,North West,20326.24,87,20326.24,86,0.0,0.0,-1,True,True,True
+2024-06-01,West Midlands,15283.68,68,14978.01,68,-305.67,-2.0,0,False,True,False
+2024-06-01,Yorkshire,23128.9,94,23128.9,94,0.0,0.0,0,True,True,True
+2024-07-01,East Midlands,25109.4,107,25109.4,107,0.0,0.0,0,True,True,True
+2024-07-01,London,31266.78,134,31266.78,134,0.0,0.0,0,True,True,True
+2024-07-01,North West,21450.63,89,21450.63,89,0.0,0.0,0,True,True,True
+2024-07-01,West Midlands,18769.84,79,18769.84,79,0.0,0.0,0,True,True,True
+2024-07-01,Yorkshire,19457.64,91,19457.64,91,0.0,0.0,0,True,True,True
+2024-08-01,East Midlands,19324.15,88,19324.15,88,0.0,0.0,0,True,True,True
+2024-08-01,London,30983.39,145,30983.39,145,0.0,0.0,0,True,True,True
+2024-08-01,North West,24110.06,103,24110.06,102,0.0,0.0,-1,True,True,True
+2024-08-01,West Midlands,14875.4,60,14875.4,60,0.0,0.0,0,True,True,True
+2024-08-01,Yorkshire,22205.32,93,22205.32,93,0.0,0.0,0,True,True,True
+2024-09-01,East Midlands,17273.29,75,17273.29,75,0.0,0.0,0,True,True,True
+2024-09-01,London,33091.02,145,33091.02,145,0.0,0.0,0,True,True,True
+2024-09-01,North West,23310.11,102,23310.11,102,0.0,0.0,0,True,True,True
+2024-09-01,West Midlands,18153.43,79,18153.43,79,0.0,0.0,0,True,True,True
+2024-09-01,Yorkshire,21767.93,93,21767.93,93,0.0,0.0,0,True,True,True
+2024-10-01,East Midlands,15381.64,64,15381.64,64,0.0,0.0,0,True,True,True
+2024-10-01,London,30266.91,132,30266.91,132,0.0,0.0,0,True,True,True
+2024-10-01,North West,22589.17,92,22589.17,92,0.0,0.0,0,True,True,True
+2024-10-01,West Midlands,18752.4,84,18752.4,84,0.0,0.0,0,True,True,True
+2024-10-01,Yorkshire,18168.43,77,18168.43,77,0.0,0.0,0,True,True,True
+2024-11-01,East Midlands,21030.94,89,21030.94,89,0.0,0.0,0,True,True,True
+2024-11-01,London,28885.92,133,28885.92,133,0.0,0.0,0,True,True,True
+2024-11-01,North West,20189.22,85,20189.22,85,0.0,0.0,0,True,True,True
+2024-11-01,West Midlands,12094.81,63,12094.81,63,0.0,0.0,0,True,True,True
+2024-11-01,Yorkshire,23481.76,106,23481.76,106,0.0,0.0,0,True,True,True
+2024-12-01,East Midlands,19353.06,77,19645.22,77,292.16,1.51,0,False,True,False
+2024-12-01,London,29215.8,127,28923.64,127,-292.16,-1.0,0,False,True,False
+2024-12-01,North West,19994.73,90,19994.73,90,0.0,0.0,0,True,True,True
+2024-12-01,West Midlands,22006.94,88,22006.94,88,0.0,0.0,0,True,True,True
+2024-12-01,Yorkshire,17742.28,87,17742.28,87,0.0,0.0,0,True,True,True
+2025-01-01,East Midlands,21117.84,87,21117.84,87,0.0,0.0,0,True,True,True
+2025-01-01,London,30496.54,148,30496.54,148,0.0,0.0,0,True,True,True
+2025-01-01,North West,21668.01,94,21668.01,94,0.0,0.0,0,True,True,True
+2025-01-01,West Midlands,14297.69,76,14011.74,76,-285.95,-2.0,0,False,True,False
+2025-01-01,Yorkshire,19882.27,93,19882.27,93,0.0,0.0,0,True,True,True
+2025-02-01,East Midlands,18202.14,78,18479.05,78,276.91,1.52,0,False,True,False
+2025-02-01,London,27691.49,131,27414.58,131,-276.91,-1.0,0,False,True,False
+2025-02-01,North West,19015.13,80,19015.13,80,0.0,0.0,0,True,True,True
+2025-02-01,West Midlands,16720.76,73,16720.76,73,0.0,0.0,0,True,True,True
+2025-02-01,Yorkshire,17135.71,74,17135.71,74,0.0,0.0,0,True,True,True
+2025-03-01,East Midlands,17900.0,71,18195.48,71,295.48,1.65,0,False,True,False
+2025-03-01,London,29548.2,141,29252.72,141,-295.48,-1.0,0,False,True,False
+2025-03-01,North West,22038.02,97,22038.02,96,0.0,0.0,-1,True,True,True
+2025-03-01,West Midlands,22862.3,90,22862.3,90,0.0,0.0,0,True,True,True
+2025-03-01,Yorkshire,21914.03,97,21914.03,97,0.0,0.0,0,True,True,True
+2025-04-01,East Midlands,21752.0,105,22016.46,105,264.46,1.22,0,False,True,False
+2025-04-01,London,26445.5,103,26181.04,103,-264.46,-1.0,0,False,True,False
+2025-04-01,North West,22408.21,100,22408.21,100,0.0,0.0,0,True,True,True
+2025-04-01,West Midlands,21674.34,83,21674.34,83,0.0,0.0,0,True,True,True
+2025-04-01,Yorkshire,13366.74,64,13366.74,64,0.0,0.0,0,True,True,True
+2025-05-01,East Midlands,21814.34,89,22159.46,89,345.12,1.58,0,False,True,False
+2025-05-01,London,34511.7,136,34166.58,136,-345.12,-1.0,0,False,True,False
+2025-05-01,North West,18467.93,86,18467.93,86,0.0,0.0,0,True,True,True
+2025-05-01,West Midlands,18740.32,78,18740.32,78,0.0,0.0,0,True,True,True
+2025-05-01,Yorkshire,24629.15,88,24629.15,88,0.0,0.0,0,True,True,True
+2025-06-01,East Midlands,20582.4,85,20582.4,85,0.0,0.0,0,True,True,True
+2025-06-01,London,29945.28,121,29945.28,121,0.0,0.0,0,True,True,True
+2025-06-01,North West,16483.93,79,16483.93,79,0.0,0.0,0,True,True,True
+2025-06-01,West Midlands,17461.53,80,17461.53,80,0.0,0.0,0,True,True,True
+2025-06-01,Yorkshire,19725.66,85,19725.66,85,0.0,0.0,0,True,True,True
+2025-07-01,East Midlands,19818.55,80,20116.62,80,298.07,1.5,0,False,True,False
+2025-07-01,London,29806.51,125,29508.44,125,-298.07,-1.0,0,False,True,False
+2025-07-01,North West,24118.77,110,24118.77,110,0.0,0.0,0,True,True,True
+2025-07-01,West Midlands,17699.83,84,17699.83,84,0.0,0.0,0,True,True,True
+2025-07-01,Yorkshire,20631.83,87,20631.83,87,0.0,0.0,0,True,True,True
+2025-08-01,East Midlands,15562.17,75,15562.17,75,0.0,0.0,0,True,True,True
+2025-08-01,London,25051.72,109,25051.72,109,0.0,0.0,0,True,True,True
+2025-08-01,North West,24081.23,104,24081.23,103,0.0,0.0,-1,True,True,True
+2025-08-01,West Midlands,21967.18,94,21527.84,94,-439.34,-2.0,0,False,True,False
+2025-08-01,Yorkshire,16022.35,76,16022.35,76,0.0,0.0,0,True,True,True
+2025-09-01,East Midlands,23134.4,90,23134.4,90,0.0,0.0,0,True,True,True
+2025-09-01,London,32611.74,150,32611.74,150,0.0,0.0,0,True,True,True
+2025-09-01,North West,22935.05,98,22935.05,98,0.0,0.0,0,True,True,True
+2025-09-01,West Midlands,18115.42,68,18115.42,68,0.0,0.0,0,True,True,True
+2025-09-01,Yorkshire,23386.34,94,23386.34,94,0.0,0.0,0,True,True,True
+2025-10-01,East Midlands,23998.59,96,23998.59,96,0.0,0.0,0,True,True,True
+2025-10-01,London,27582.92,128,27582.92,128,0.0,0.0,0,True,True,True
+2025-10-01,North West,24724.13,115,24724.13,115,0.0,0.0,0,True,True,True
+2025-10-01,West Midlands,16350.38,78,16350.38,78,0.0,0.0,0,True,True,True
+2025-10-01,Yorkshire,19188.71,88,19188.71,88,0.0,0.0,0,True,True,True
+2025-11-01,East Midlands,20205.0,80,20205.0,80,0.0,0.0,0,True,True,True
+2025-11-01,London,28893.07,112,28893.07,112,0.0,0.0,0,True,True,True
+2025-11-01,North West,18557.16,95,18557.16,95,0.0,0.0,0,True,True,True
+2025-11-01,West Midlands,16052.37,67,16052.37,67,0.0,0.0,0,True,True,True
+2025-11-01,Yorkshire,18708.52,78,18708.52,78,0.0,0.0,0,True,True,True
+2025-12-01,East Midlands,23497.45,88,23497.45,88,0.0,0.0,0,True,True,True
+2025-12-01,London,34575.31,148,34575.31,148,0.0,0.0,0,True,True,True
+2025-12-01,North West,16346.31,82,16346.31,82,0.0,0.0,0,True,True,True
+2025-12-01,West Midlands,12483.03,63,12483.03,63,0.0,0.0,0,True,True,True
+2025-12-01,Yorkshire,23797.77,100,23797.77,100,0.0,0.0,0,True,True,True
